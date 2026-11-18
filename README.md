@@ -131,7 +131,7 @@ Review and document the password-cracking results.
 
 # Project Screenshots
 
-1. Hexstrike-AI Server Running
+1. [Hexstrike-AI Server Running](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/Hexstrike-AI%20Server%20Running.png?raw=true)
 
 
 
