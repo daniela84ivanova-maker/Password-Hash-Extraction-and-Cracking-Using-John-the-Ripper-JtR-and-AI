@@ -131,28 +131,28 @@ Review and document the password-cracking results.
 
 # Project Screenshots
 
-1. Hexstrike-AI Server Running.png
+1. Hexstrike-AI Server Running
 
 
 
-2. MCP Connection.png
+2. MCP Connection
 
 
 
-3. PDFs Hash Extraction.png
+3. PDFs Hash Extraction
 
 
 
-4. John the Ripper Password Cracking.png
+4. John the Ripper Password Cracking
 
 
 
-5. PDF1 Capture the Flag.png
+5. PDF1 Capture the Flag
 
 
 
-6. PDF2 Capture the Flag.png
+6. PDF2 Capture the Flag
 
 
 
-7. PDF3 Capture the Flag.png
+7. PDF3 Capture the Flag
