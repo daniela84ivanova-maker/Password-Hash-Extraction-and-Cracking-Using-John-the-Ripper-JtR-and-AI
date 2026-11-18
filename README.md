@@ -141,7 +141,7 @@ MCP Connection
 
 
 PDFs Hash Extraction
-https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/PDFs%20Hash%20Extraction.png?raw=true
+![PDFs Hash Extraction](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/PDFs%20Hash%20Extraction.png?raw=true)
 
 John the Ripper Password Cracking
 ![John the Ripper Password Cracking](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/John%20the%20Ripper%20Password%20Cracking.png?raw=true)
