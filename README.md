@@ -131,28 +131,29 @@ Review and document the password-cracking results.
 
 # Project Screenshots
 
-1. ![Hexstrike-AI Server Running](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/Hexstrike-AI%20Server%20Running.png?raw=true)
+Hexstrike-AI Server Running
+![Hexstrike-AI Server Running](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/Hexstrike-AI%20Server%20Running.png?raw=true)
 
 
 
-2. ![MCP Connection](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/MCP%20Connection.png?raw=true)
+MCP Connection
+![MCP Connection](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/MCP%20Connection.png?raw=true)
+
+
+PDFs Hash Extraction
+
+
+John the Ripper Password Cracking
+![John the Ripper Password Cracking](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/John%20the%20Ripper%20Password%20Cracking.png?raw=true)
 
 
 
-3. PDFs Hash Extraction
+PDF1 Capture the Flag
 
 
 
-4. ![John the Ripper Password Cracking](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/John%20the%20Ripper%20Password%20Cracking.png?raw=true)
+PDF2 Capture the Flag
 
 
 
-5. PDF1 Capture the Flag
-
-
-
-6. PDF2 Capture the Flag
-
-
-
-7. PDF3 Capture the Flag
+PDF3 Capture the Flag
