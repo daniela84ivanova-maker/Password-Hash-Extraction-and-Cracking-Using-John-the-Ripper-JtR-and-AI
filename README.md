@@ -143,7 +143,7 @@ Review and document the password-cracking results.
 
 
 
-4. John the Ripper Password Cracking
+4. ![John the Ripper Password Cracking](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/John%20the%20Ripper%20Password%20Cracking.png?raw=true)
 
 
 
