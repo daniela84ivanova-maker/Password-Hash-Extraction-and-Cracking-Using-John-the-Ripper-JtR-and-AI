@@ -140,8 +140,11 @@ MCP Connection
 ![MCP Connection](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/MCP%20Connection.png?raw=true)
 
 
+
 PDFs Hash Extraction
 ![PDFs Hash Extraction](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/PDFs%20Hash%20Extraction.png?raw=true)
+
+
 
 John the Ripper Password Cracking
 ![John the Ripper Password Cracking](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/John%20the%20Ripper%20Password%20Cracking.png?raw=true)
@@ -152,8 +155,9 @@ PDF1 Capture the Flag
 ![PDF1 Capture the Flag](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/PDF1%20Capture%20the%20Flag.png?raw=true)
 
 
-PDF2 Capture the Flag
 
+PDF2 Capture the Flag
+![PDF2 Capture the Flag](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/PDF2%20Capture%20the%20Flag.png?raw=true)
 
 
 PDF3 Capture the Flag
