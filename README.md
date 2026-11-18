@@ -114,8 +114,8 @@ Review and document the password-cracking results.
 # Results:
 # Hashes calculated:
 
-| File | MD5 | SHA1 | SHA256 |
-|---|---|
+|        File        |                MD5               |                     SHA1                 |                                 SHA256                           |
+|--------------------|----------------------------------|------------------------------------------|------------------------------------------------------------------|
 | My Locked PDF1.pdf | 112330f8d73e9f94b7263404799f4a3b | 67cb14f88c84c5cd37f45d74631b915aeb8e4468 | 565843cf47c802ea5b7481d5e24c8e99a6a3f8a9eb861ef71bc0b1180be50e4e |
 | My Locked PDF2.pdf | 5721116255bd95a1bbbcefedae2e5968 | 03f9c6b874ea628475d54e52c1e0b99dd83e7e6b | a7ac5ab8e90e239b9022737b644b4f5469024b2384a722d9113490efcf46a212 |
 | My Locked PDF3.pdf | c9f461d51bee9119d1fddbcf5046e5a6 | 2802a83fc1ca93e34e1f81de4467ab2ab84668fa | c506c362d1e8175be8fe91b5a145cec2aeee4ce22f54e426cecf7e5e17fe58a5 |
