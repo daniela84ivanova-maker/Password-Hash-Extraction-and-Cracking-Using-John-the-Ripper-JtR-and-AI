@@ -135,7 +135,7 @@ Review and document the password-cracking results.
 
 
 
-2. MCP Connection
+2. ![MCP Connection](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/MCP%20Connection.png?raw=true)
 
 
 
