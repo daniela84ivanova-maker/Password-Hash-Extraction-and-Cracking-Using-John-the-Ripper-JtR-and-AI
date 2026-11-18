@@ -149,7 +149,7 @@ John the Ripper Password Cracking
 
 
 PDF1 Capture the Flag
-
+![PDF1 Capture the Flag](https://github.com/daniela84ivanova-maker/Password-Hash-Extraction-and-Cracking-Using-John-the-Ripper-JtR-and-AI/blob/main/PDF1%20Capture%20the%20Flag.png?raw=true)
 
 
 PDF2 Capture the Flag
