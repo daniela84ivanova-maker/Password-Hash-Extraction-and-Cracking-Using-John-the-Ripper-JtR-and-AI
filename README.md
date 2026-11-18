@@ -122,10 +122,12 @@ Review and document the password-cracking results.
 
 
 # Passwords cracked:
-       File	                    Password
-My Locked PDF1.pdf	           good-luck
-My Locked PDF2.pdf	           password1
-My Locked PDF3.pdf	           1qaz2wsx
+
+|        File        |     Password        |
+|--------------------|---------------------|
+| My Locked PDF1.pdf |    good-luck        |
+| My Locked PDF2.pdf |    password1        |
+| My Locked PDF3.pdf |    1qaz2wsx         |
 
 # Project Screenshots
 
